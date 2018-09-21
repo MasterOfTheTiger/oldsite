@@ -1,5 +1,7 @@
-# masterofthetiger.github.io
-My website. I used to host it with x10hosting.com, but now I am using GitHub Pages. 
+# oldsite
+My old website. I used to host it with x10hosting.com, but now I am using GitHub Pages. 
+
+### [Please go to my new website](https://github.com/masterofthetiger/masterofthetiger.github.io)
 
 View it at http://mtiger.tk
 
